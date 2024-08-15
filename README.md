@@ -13,8 +13,8 @@ I wrote scripts to solve the [Human Benchmark](https://humanbenchmark.com) tests
 - [ ] Visual Memory
 - [ ] Typing
 
-## Reaction Time
+## Video Demos
 
-<video controls>
-  <source src="_demos/reaction-time.mp4" type="video/mp4">
-</video>
+Watch the demos on my YouTube channel with some cool edits 😉
+
+- [Reaction Time](https://youtube.com/shorts/STO2srPipHU?si=11iNH85BJQ9GcHD0)
